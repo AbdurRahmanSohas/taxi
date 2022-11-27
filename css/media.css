@@ -1,0 +1,415 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+header {
+    padding: 6px 0;
+}
+.htp {
+    text-align: center;
+}
+.src p {
+    padding-right: 20px;
+}
+.hit{
+    margin-left: 91px;
+}
+
+.nav_c ul li {
+    padding: 0 0px;
+}
+.nav_c ul li a {
+    padding: 10px 0;
+    text-align: end;
+}
+.src p {
+    padding-left: 9px;
+}
+.ic{
+    padding: 6px 6px !important;
+}
+/*ride starat*/
+.ride {
+    margin-bottom: 36px;
+}
+.rtx{
+    margin: 0 0 24px
+}
+.text {
+    margin: 50px 0;
+}
+/*ride end*/
+/*feature start*/
+.fh_one {
+    font-size: 40px;
+}
+.feature {
+    padding: 50px 0;
+}
+h3 {
+    font-size: 36px;
+}
+.fs{
+    margin-bottom: 0px !important;
+    margin-top: 20px;
+}
+.f_t{
+    text-align: center;
+}
+.fh_one {
+    font-size: 32px;
+}
+.fbtn{
+    margin-top: 34px;
+    text-align: center;
+}
+.l_tx {
+    padding-left: 23px;
+    padding-top: 19px;
+    padding-bottom: 0px;
+
+}
+.ltx{
+   font-size: 22px !important;
+}
+h3 {
+    font-size: 26px;
+}
+/*feature end*/
+/*findcar start*/
+#datepick {
+    margin: 0px 0 0px;
+}
+.form {
+    padding: 50px 0 50px;
+}
+.mt h1 {
+    font-size: 22px !important;
+}
+/*findcar end*/
+.e_text{
+    text-align: center;
+}
+.expc{
+    margin-top: 15px;
+}
+.explore {
+    margin-bottom: 60px;
+}
+/*get app*/
+.g_t {
+    font-size: 24px;
+}
+.get_t {
+    padding-top: 41px;
+    padding-bottom: 36px;
+}
+.get {
+    margin-bottom: 60px;
+}
+.box_b a {
+    padding: 6px 12px;
+}
+.g_i {
+    padding-top: 58px;
+}
+/*get app*/
+#hrt {
+    color: yellow;
+    width: 307px;
+}
+#fud {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.pl_l {
+    margin-bottom: 50px;
+}
+.mt {
+    margin-bottom: 40px;
+}
+
+
+
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+header {
+    padding: 6px 0;
+}
+.htp {
+    text-align: center;
+}
+.src p {
+    padding-right: 20px;
+}
+.hit{
+    margin-left: 311px;
+}
+
+.nav_c ul li {
+    padding: 0 0px;
+}
+.nav_c ul li a {
+    padding: 10px 0;
+    text-align: end;
+}
+.src p {
+    padding-left: 9px;
+}
+.ic{
+    padding: 6px 6px !important;
+}
+/*ride starat*/
+.ride {
+    margin-bottom: 25px;
+}
+.rtx{
+    margin: 0 0 34px
+}
+.text {
+    margin: 60px 0;
+}
+/*ride end*/
+/*feature start*/
+.fh_one {
+    font-size: 40px;
+}
+.feature {
+    padding: 50px 0;
+}
+h3 {
+    font-size: 36px;
+}
+.fs{
+    margin-bottom: 0px !important;
+    margin-top: 20px;
+}
+/*feature end*/
+/*findcar start*/
+#datepick {
+    margin: 0px 0 0px;
+}
+.form {
+    padding: 50px 0 50px;
+}
+/*findcar end*/
+.e_text{
+    text-align: center;
+}
+.expc{
+    margin-top: 18px;
+}
+.explore {
+    margin-bottom: 60px;
+}
+/*get app*/
+.g_t {
+    font-size: 42px;
+}
+.get_t {
+    padding-top: 41px;
+    padding-bottom: 36px;
+}
+.get {
+    margin-bottom: 60px;
+}
+/*get app*/
+#fud{
+    margin-bottom: 40px;
+}
+.findcar {
+    margin-bottom: 60px;
+}
+#ss {
+    margin-top: 12px;
+    margin-bottom: 16px;
+}
+.pl_l {
+    margin-bottom: 50px;
+}
+.mt {
+    margin-bottom: 40px;
+}
+
+
+
+
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+header {
+    padding: 10px 0;
+}
+.hit{
+    margin-left: 491px;
+}
+
+.nav_c ul li {
+    padding: 0 0px;
+}
+.nav_c ul li a {
+    padding: 10px 0;
+    text-align: end;
+}
+.src p {
+    padding-left: 9px;
+}
+.ic{
+    padding: 6px 6px !important;
+}
+.slip {
+    padding: 0px 0px;
+    margin-bottom: 30px;
+}
+.fh_one {
+    font-size: 48px;
+}
+.align{
+    margin-bottom: 22px;
+    text-align: center;
+}
+/*ride start*/
+.rtx{
+    margin: 0 0 24px
+}
+.ride {
+    margin-bottom: 56px;
+}
+.feature {
+    padding: 65px 0;
+}
+/*ride end*/
+/*findcar start*/
+#datepick {
+    margin: 0px 0 0px;
+}
+.form {
+    padding: 60px 0 60px;
+}
+/*findcar end*/
+.expc{
+    margin-top: 20px;
+}
+.explore {
+    margin-bottom: 60px;
+}
+/*get app*/
+.get_t {
+    padding-top: 41px;
+    padding-bottom: 35px;
+}
+.g_t {
+    font-size: 38px;
+}
+.get {
+    margin-bottom: 60px;
+}
+/*get app*/
+#fud{
+    margin-bottom: 60px;
+}
+.mt {
+    margin-bottom: 50px;
+}
+
+
+
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+header {
+    padding: 14px 0;
+}
+
+.slip {
+    padding: 0px 49px;
+    margin-bottom: 73px;
+}
+
+.src p {
+    margin-top: 0px !important;
+    margin-left: 6px !important;
+}
+.src a{
+  padding: 6px 6px !important;
+}
+.nav_c ul li {
+    padding: 0 0px;
+}
+.h_on{
+  font-size: 50px;
+}
+/*featur*/
+.l_tx {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.lts {
+    font-size: 24px;
+}
+.fs_t h3{
+    margin: 0px;
+    font-size: 22px;
+}
+.fs_t p {
+    margin-top: 0;
+    margin-bottom: 2px;
+}
+/*featur*/
+.e_text{
+    text-align: center;
+}
+.expc{
+    margin-top: 20px;
+}
+/*get app*/
+.get_t {
+    padding-top: 58px;
+    padding-bottom: 50px;
+}
+.g_t {
+    font-size: 44px;
+}
+/*get app*/
+#emi {
+    width: 164px;
+    height: 49px;
+}
+#emib {
+    height: 49px;
+}
+.mt {
+    margin-bottom: 50px;
+}
+
+
+
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+.slip {
+    margin-bottom: 95px;
+}
+.h_on{
+  font-size: 55px;
+}
+
+
+}
+
+ /*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+.h_on{
+  font-size: 58px;
+}
+
+}
